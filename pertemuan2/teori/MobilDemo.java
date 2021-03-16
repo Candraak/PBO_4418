@@ -1,4 +1,4 @@
-public class MkobilDemo {
+public class MobilDemo {
     public static void main(String args[]) {
         mobil mobilku = new mobil();
         mobilku.warna = "Hitam";
