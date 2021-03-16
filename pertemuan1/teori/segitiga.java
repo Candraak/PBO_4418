@@ -1,4 +1,4 @@
-public class Segitiga {
+public class segitiga {
     public static void main (String args []) {
         int a = 20, t=20;
         int luas = a*t*0.5;
