@@ -1,4 +1,4 @@
-public class Gameenemy {
+public class Gameenemy{
     private double width;
     private double height;
     private int positionx;
